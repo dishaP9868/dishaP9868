@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @dishaP9868
 - 👀 I’m interested in field of Computer Science, Information Science and Technology. 
-- 🌱 I’m currently learning Python programming language, networking and telecommunication.  
+- I have learned Visual Basic Studio, Java, Data Structure, Python, Microsoft SQL programming laguages.
+- I'm confortable to work with jGraps, Thonny, Eclipse, Pycharm IDEs. 
+- 🌱 I’m currently learning HTML, PHP, and IT projectmenegment.  
 - 💞️ I’m looking to collaborate on coding related discussion, networking issue, new technology related news and study.  
 - 📫 You can feel free to read out to me through github. I will reach out to you as soon as possible. 
 
