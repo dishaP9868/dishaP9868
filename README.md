@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning HTML, PHP, and IT project menegment.  
 - 💞️ I’m looking to collaborate on coding related discussion, networking issue, new technology related news and study.  
 - 📫 You can feel free to read out to me through github. I will reach out to you as soon as possible. 
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!---
 dishaP9868/dishaP9868 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
